@@ -49,7 +49,8 @@
             this.richTextBox1.Size = new System.Drawing.Size(642, 53);
             this.richTextBox1.TabIndex = 1;
             this.richTextBox1.Text = "Bu kısmı değiştir. Kaydet. Hatta kapat projeyi her şeyi kaydetsin bazen tam kayde" +
-    "tmiyor çünkü. Sonra push et. Bir de ben indireyim bakayım bende de değişmiş mi?";
+    "tmiyor çünkü. Sonra push et. Bir de ben indireyim bakayım bende de değişmiş mi??" +
+    "";
             // 
             // Form1
             // 
