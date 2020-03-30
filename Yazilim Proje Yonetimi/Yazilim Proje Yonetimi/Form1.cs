@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Yazilim_Proje_Yonetimi
 {
-    public partial class Form1 : Form
+    public partial class Form_Giris : Form
     {
-        public Form1()
+        public Form_Giris()
         {
             InitializeComponent();
         }
