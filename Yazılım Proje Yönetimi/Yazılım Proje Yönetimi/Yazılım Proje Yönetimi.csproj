@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form_Alian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alian.Designer.cs">
+      <DependentUpon>Form_Alian.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form_Giris.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Alian.resx">
+      <DependentUpon>Form_Alian.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_Giris.resx">
       <DependentUpon>Form_Giris.cs</DependentUpon>
     </EmbeddedResource>
