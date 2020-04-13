@@ -1,0 +1,10 @@
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\bin\Debug\Yazılım Proje Yönetimi.exe.config
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\bin\Debug\Yazılım Proje Yönetimi.exe
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\bin\Debug\Yazılım Proje Yönetimi.pdb
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.csprojAssemblyReference.cache
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Giris.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Properties.Resources.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.csproj.GenerateResource.cache
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.csproj.CoreCompileInputs.cache
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.exe
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.pdb
