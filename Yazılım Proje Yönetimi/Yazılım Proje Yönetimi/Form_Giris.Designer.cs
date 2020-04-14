@@ -145,6 +145,7 @@
             this.btn_Titanic.TabIndex = 7;
             this.btn_Titanic.Text = "Titanic";
             this.btn_Titanic.UseVisualStyleBackColor = false;
+            this.btn_Titanic.Click += new System.EventHandler(this.btn_Titanic_Click);
             // 
             // btn_Tourist
             // 

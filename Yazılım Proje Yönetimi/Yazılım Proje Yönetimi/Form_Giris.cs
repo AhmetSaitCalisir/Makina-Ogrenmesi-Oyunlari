@@ -28,5 +28,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Phishing.Show();
             this.Hide();
         }
+
+        private void btn_Titanic_Click(object sender, EventArgs e)
+        {
+            Form_Titanic form_Titanic = new Form_Titanic();
+            form_Titanic.Show();
+            this.Hide();
+        }
     }
 }

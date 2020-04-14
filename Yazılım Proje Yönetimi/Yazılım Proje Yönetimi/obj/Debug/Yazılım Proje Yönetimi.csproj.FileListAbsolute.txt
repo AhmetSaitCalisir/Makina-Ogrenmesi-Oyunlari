@@ -20,3 +20,4 @@ D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım Proje Yönetimi.pdb
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Alian.resources
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Phishing.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Titanic.resources
