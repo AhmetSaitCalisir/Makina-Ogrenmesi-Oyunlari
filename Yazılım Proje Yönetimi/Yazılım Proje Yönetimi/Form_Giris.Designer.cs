@@ -131,6 +131,7 @@
             this.btn_Phishing.TabIndex = 6;
             this.btn_Phishing.Text = "Phishing";
             this.btn_Phishing.UseVisualStyleBackColor = false;
+            this.btn_Phishing.Click += new System.EventHandler(this.btn_Phishing_Click);
             // 
             // btn_Titanic
             // 

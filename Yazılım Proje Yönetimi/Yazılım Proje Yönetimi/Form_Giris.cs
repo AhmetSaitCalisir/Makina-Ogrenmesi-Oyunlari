@@ -21,5 +21,12 @@ namespace Yazılım_Proje_Yönetimi
         {
             Application.Exit();
         }
+
+        private void btn_Phishing_Click(object sender, EventArgs e)
+        {
+            Form_Phishing form_Phishing = new Form_Phishing();
+            form_Phishing.Show();
+            this.Hide();
+        }
     }
 }
