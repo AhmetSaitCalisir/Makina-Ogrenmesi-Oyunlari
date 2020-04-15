@@ -49,6 +49,7 @@
     <Compile Include="Class_Phishing_Soru.cs" />
     <Compile Include="Class_Phishing_Sorular.cs" />
     <Compile Include="Class_Titanic_Puanla.cs" />
+    <Compile Include="Class_Tourist_YerAyarlama.cs" />
     <Compile Include="Form_Alian.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +74,12 @@
     <Compile Include="Form_Titanic.Designer.cs">
       <DependentUpon>Form_Titanic.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Tourist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Tourist.Designer.cs">
+      <DependentUpon>Form_Tourist.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_Alian.resx">
@@ -86,6 +93,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Titanic.resx">
       <DependentUpon>Form_Titanic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Tourist.resx">
+      <DependentUpon>Form_Tourist.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

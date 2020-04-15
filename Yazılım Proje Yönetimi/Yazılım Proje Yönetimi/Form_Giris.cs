@@ -35,5 +35,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Titanic.Show();
             this.Hide();
         }
+
+        private void btn_Tourist_Click(object sender, EventArgs e)
+        {
+            Form_Tourist form_Tourist = new Form_Tourist();
+            form_Tourist.Show();
+            this.Hide();
+        }
     }
 }

@@ -159,6 +159,7 @@
             this.btn_Tourist.TabIndex = 8;
             this.btn_Tourist.Text = "Tourist Info";
             this.btn_Tourist.UseVisualStyleBackColor = false;
+            this.btn_Tourist.Click += new System.EventHandler(this.btn_Tourist_Click);
             // 
             // btn_Sorting
             // 
