@@ -173,6 +173,7 @@
             this.btn_Sorting.TabIndex = 9;
             this.btn_Sorting.Text = "Sorting Hat";
             this.btn_Sorting.UseVisualStyleBackColor = false;
+            this.btn_Sorting.Click += new System.EventHandler(this.btn_Sorting_Click);
             // 
             // btn_Cikis
             // 

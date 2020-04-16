@@ -42,5 +42,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Tourist.Show();
             this.Hide();
         }
+
+        private void btn_Sorting_Click(object sender, EventArgs e)
+        {
+            Form_Sorting form_Sorting = new Form_Sorting();
+            form_Sorting.Show();
+            this.Hide();
+        }
     }
 }

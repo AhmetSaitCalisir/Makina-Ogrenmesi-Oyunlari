@@ -22,3 +22,4 @@ D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Y
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Phishing.resources
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Titanic.resources
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Tourist.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Sorting.resources
