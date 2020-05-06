@@ -56,5 +56,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Alian.Show();
             this.Hide();
         }
+
+        private void btn_Car_Click(object sender, EventArgs e)
+        {
+            Form_CarCup form_CarCup = new Form_CarCup();
+            form_CarCup.Show();
+            this.Hide();
+        }
     }
 }
