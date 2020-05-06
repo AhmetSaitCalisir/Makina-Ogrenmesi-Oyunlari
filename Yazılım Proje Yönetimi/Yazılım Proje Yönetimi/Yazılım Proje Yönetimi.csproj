@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class_AlianLanguage.cs" />
     <Compile Include="Class_Phishing_Soru.cs" />
     <Compile Include="Class_Phishing_Sorular.cs" />
     <Compile Include="Class_Sorting_Soru.cs" />
@@ -57,6 +58,12 @@
     </Compile>
     <Compile Include="Form_Alian.Designer.cs">
       <DependentUpon>Form_Alian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Alian2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alian2.Designer.cs">
+      <DependentUpon>Form_Alian2.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Giris.cs">
       <SubType>Form</SubType>
@@ -92,6 +99,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_Alian.resx">
       <DependentUpon>Form_Alian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Alian2.resx">
+      <DependentUpon>Form_Alian2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Giris.resx">
       <DependentUpon>Form_Giris.cs</DependentUpon>

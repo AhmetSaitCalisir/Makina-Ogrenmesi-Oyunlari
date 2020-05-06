@@ -49,5 +49,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Sorting.Show();
             this.Hide();
         }
+
+        private void btn_Alian_Click(object sender, EventArgs e)
+        {
+            Form_Alian form_Alian = new Form_Alian();
+            form_Alian.Show();
+            this.Hide();
+        }
     }
 }

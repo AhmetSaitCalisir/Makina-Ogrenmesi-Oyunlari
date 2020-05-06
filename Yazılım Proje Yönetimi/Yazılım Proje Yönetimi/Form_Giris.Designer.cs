@@ -47,12 +47,14 @@
             this.btn_Alian.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Alian.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Alian.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Alian.Location = new System.Drawing.Point(12, 12);
+            this.btn_Alian.Location = new System.Drawing.Point(16, 15);
+            this.btn_Alian.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Alian.Name = "btn_Alian";
-            this.btn_Alian.Size = new System.Drawing.Size(140, 80);
+            this.btn_Alian.Size = new System.Drawing.Size(187, 98);
             this.btn_Alian.TabIndex = 0;
             this.btn_Alian.Text = "Alian Language";
             this.btn_Alian.UseVisualStyleBackColor = false;
+            this.btn_Alian.Click += new System.EventHandler(this.btn_Alian_Click);
             // 
             // btn_Car
             // 
@@ -60,9 +62,10 @@
             this.btn_Car.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Car.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Car.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Car.Location = new System.Drawing.Point(158, 12);
+            this.btn_Car.Location = new System.Drawing.Point(211, 15);
+            this.btn_Car.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Car.Name = "btn_Car";
-            this.btn_Car.Size = new System.Drawing.Size(140, 80);
+            this.btn_Car.Size = new System.Drawing.Size(187, 98);
             this.btn_Car.TabIndex = 1;
             this.btn_Car.Text = "Car or Cup";
             this.btn_Car.UseVisualStyleBackColor = false;
@@ -73,9 +76,10 @@
             this.btn_Kiwi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Kiwi.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Kiwi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Kiwi.Location = new System.Drawing.Point(304, 12);
+            this.btn_Kiwi.Location = new System.Drawing.Point(405, 15);
+            this.btn_Kiwi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Kiwi.Name = "btn_Kiwi";
-            this.btn_Kiwi.Size = new System.Drawing.Size(140, 80);
+            this.btn_Kiwi.Size = new System.Drawing.Size(187, 98);
             this.btn_Kiwi.TabIndex = 2;
             this.btn_Kiwi.Text = "Kiwi or Stoat";
             this.btn_Kiwi.UseVisualStyleBackColor = false;
@@ -86,9 +90,10 @@
             this.btn_Chameleon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Chameleon.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Chameleon.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Chameleon.Location = new System.Drawing.Point(12, 98);
+            this.btn_Chameleon.Location = new System.Drawing.Point(16, 121);
+            this.btn_Chameleon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Chameleon.Name = "btn_Chameleon";
-            this.btn_Chameleon.Size = new System.Drawing.Size(210, 80);
+            this.btn_Chameleon.Size = new System.Drawing.Size(280, 98);
             this.btn_Chameleon.TabIndex = 3;
             this.btn_Chameleon.Text = "Chameleon";
             this.btn_Chameleon.UseVisualStyleBackColor = false;
@@ -99,9 +104,10 @@
             this.btn_Find.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Find.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Find.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Find.Location = new System.Drawing.Point(234, 98);
+            this.btn_Find.Location = new System.Drawing.Point(312, 121);
+            this.btn_Find.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Find.Name = "btn_Find";
-            this.btn_Find.Size = new System.Drawing.Size(210, 80);
+            this.btn_Find.Size = new System.Drawing.Size(280, 98);
             this.btn_Find.TabIndex = 4;
             this.btn_Find.Text = "Find It";
             this.btn_Find.UseVisualStyleBackColor = false;
@@ -112,9 +118,10 @@
             this.btn_Make.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Make.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Make.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Make.Location = new System.Drawing.Point(12, 184);
+            this.btn_Make.Location = new System.Drawing.Point(16, 226);
+            this.btn_Make.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Make.Name = "btn_Make";
-            this.btn_Make.Size = new System.Drawing.Size(210, 80);
+            this.btn_Make.Size = new System.Drawing.Size(280, 98);
             this.btn_Make.TabIndex = 5;
             this.btn_Make.Text = "Make Me Happy";
             this.btn_Make.UseVisualStyleBackColor = false;
@@ -125,9 +132,10 @@
             this.btn_Phishing.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Phishing.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Phishing.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Phishing.Location = new System.Drawing.Point(234, 184);
+            this.btn_Phishing.Location = new System.Drawing.Point(312, 226);
+            this.btn_Phishing.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Phishing.Name = "btn_Phishing";
-            this.btn_Phishing.Size = new System.Drawing.Size(210, 80);
+            this.btn_Phishing.Size = new System.Drawing.Size(280, 98);
             this.btn_Phishing.TabIndex = 6;
             this.btn_Phishing.Text = "Phishing";
             this.btn_Phishing.UseVisualStyleBackColor = false;
@@ -139,9 +147,10 @@
             this.btn_Titanic.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Titanic.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Titanic.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Titanic.Location = new System.Drawing.Point(304, 270);
+            this.btn_Titanic.Location = new System.Drawing.Point(405, 332);
+            this.btn_Titanic.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Titanic.Name = "btn_Titanic";
-            this.btn_Titanic.Size = new System.Drawing.Size(140, 80);
+            this.btn_Titanic.Size = new System.Drawing.Size(187, 98);
             this.btn_Titanic.TabIndex = 7;
             this.btn_Titanic.Text = "Titanic";
             this.btn_Titanic.UseVisualStyleBackColor = false;
@@ -153,9 +162,10 @@
             this.btn_Tourist.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Tourist.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Tourist.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Tourist.Location = new System.Drawing.Point(12, 270);
+            this.btn_Tourist.Location = new System.Drawing.Point(16, 332);
+            this.btn_Tourist.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Tourist.Name = "btn_Tourist";
-            this.btn_Tourist.Size = new System.Drawing.Size(140, 80);
+            this.btn_Tourist.Size = new System.Drawing.Size(187, 98);
             this.btn_Tourist.TabIndex = 8;
             this.btn_Tourist.Text = "Tourist Info";
             this.btn_Tourist.UseVisualStyleBackColor = false;
@@ -167,9 +177,10 @@
             this.btn_Sorting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Sorting.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Sorting.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(170)))), ((int)(((byte)(201)))));
-            this.btn_Sorting.Location = new System.Drawing.Point(158, 270);
+            this.btn_Sorting.Location = new System.Drawing.Point(211, 332);
+            this.btn_Sorting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Sorting.Name = "btn_Sorting";
-            this.btn_Sorting.Size = new System.Drawing.Size(140, 80);
+            this.btn_Sorting.Size = new System.Drawing.Size(187, 98);
             this.btn_Sorting.TabIndex = 9;
             this.btn_Sorting.Text = "Sorting Hat";
             this.btn_Sorting.UseVisualStyleBackColor = false;
@@ -181,9 +192,10 @@
             this.btn_Cikis.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Cikis.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Cikis.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
-            this.btn_Cikis.Location = new System.Drawing.Point(12, 356);
+            this.btn_Cikis.Location = new System.Drawing.Point(16, 438);
+            this.btn_Cikis.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Cikis.Name = "btn_Cikis";
-            this.btn_Cikis.Size = new System.Drawing.Size(432, 80);
+            this.btn_Cikis.Size = new System.Drawing.Size(576, 98);
             this.btn_Cikis.TabIndex = 10;
             this.btn_Cikis.Text = "ÇIKIŞ";
             this.btn_Cikis.UseVisualStyleBackColor = false;
@@ -191,10 +203,10 @@
             // 
             // Form_Giris
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(247)))), ((int)(((byte)(252)))));
-            this.ClientSize = new System.Drawing.Size(460, 446);
+            this.ClientSize = new System.Drawing.Size(613, 549);
             this.Controls.Add(this.btn_Cikis);
             this.Controls.Add(this.btn_Sorting);
             this.Controls.Add(this.btn_Tourist);
@@ -207,6 +219,7 @@
             this.Controls.Add(this.btn_Car);
             this.Controls.Add(this.btn_Alian);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form_Giris";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giris";
