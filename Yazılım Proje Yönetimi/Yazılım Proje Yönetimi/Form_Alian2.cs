@@ -61,8 +61,7 @@ namespace Yazılım_Proje_Yönetimi
             {
                 MessageBox.Show("CEVABINIZ HATALI");
                 MessageBox.Show(Form_Alian.Class_AlianLanguage.CevapDon(txtBx_SorulanKelime.Text));
-                //CEVAP YANLIŞSA YAPILACAKLAR
-               // txtBx_Cevap.Enabled = false;
+                
             }
 
             

@@ -39,7 +39,7 @@ namespace Yazılım_Proje_Yönetimi
         }
         public void KelimeKaydet()
         {
-            Kelimeler.Add("hhh");
+            
             Kelimeler.Add("baba");
             Kelimeler.Add("çiçek");
             Kelimeler.Add("bardak");
@@ -64,10 +64,7 @@ namespace Yazılım_Proje_Yönetimi
             return Kelimeler[index];
         }
 
-        //public void CevapEkle(string cevap)
-        //{
-        //    Cevaplar.Add(cevap);
-        //}
+        
         public string cevabiGoster(int indeks)
         {
             return Cevaplar[indeks];
@@ -85,18 +82,13 @@ namespace Yazılım_Proje_Yönetimi
         {
             return Harfler[index];
         }
-        //public  List<string> dogruCevapHarf = new List<string>();
+        
 
         public string CevapDon(string gelen)
         {
             string alianCevap="";
 
-            //for (i=0; i<gelen.Length; i++)
-            //{
-            //    char[] ayir = gelen.ToCharArray();
-            //    dogruCevapHarf.Add(ayir[i].ToString());
-
-            //}
+            
 
             foreach (char harf in gelen)
             {
