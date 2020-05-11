@@ -98,6 +98,7 @@
             this.btn_Chameleon.TabIndex = 3;
             this.btn_Chameleon.Text = "Chameleon";
             this.btn_Chameleon.UseVisualStyleBackColor = false;
+            this.btn_Chameleon.Click += new System.EventHandler(this.btn_Chameleon_Click);
             // 
             // btn_Find
             // 

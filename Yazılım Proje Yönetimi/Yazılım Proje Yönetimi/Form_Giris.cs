@@ -63,5 +63,12 @@ namespace Yazılım_Proje_Yönetimi
             form_CarCup.Show();
             this.Hide();
         }
+
+        private void btn_Chameleon_Click(object sender, EventArgs e)
+        {
+            Form_Chameleon form_Chameleon = new Form_Chameleon();
+            form_Chameleon.Show();
+            this.Hide();
+        }
     }
 }

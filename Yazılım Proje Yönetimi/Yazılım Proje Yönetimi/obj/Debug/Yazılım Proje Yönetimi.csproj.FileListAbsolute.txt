@@ -30,3 +30,4 @@ D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Tourist.resources
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Alian2.resources
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_CarCup.resources
+D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Chameleon.resources

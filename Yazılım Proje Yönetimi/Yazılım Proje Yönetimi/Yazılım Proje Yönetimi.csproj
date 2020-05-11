@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Class_AlianLanguage.cs" />
     <Compile Include="Class_CarCup.cs" />
+    <Compile Include="Class_Chameleon.cs" />
     <Compile Include="Class_Phishing_Soru.cs" />
     <Compile Include="Class_Phishing_Sorular.cs" />
     <Compile Include="Class_Sorting_Soru.cs" />
@@ -71,6 +72,12 @@
     </Compile>
     <Compile Include="Form_CarCup.Designer.cs">
       <DependentUpon>Form_CarCup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Chameleon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Chameleon.Designer.cs">
+      <DependentUpon>Form_Chameleon.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Giris.cs">
       <SubType>Form</SubType>
@@ -112,6 +119,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_CarCup.resx">
       <DependentUpon>Form_CarCup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Chameleon.resx">
+      <DependentUpon>Form_Chameleon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Giris.resx">
       <DependentUpon>Form_Giris.cs</DependentUpon>
