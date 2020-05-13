@@ -55,7 +55,6 @@
             this.txtBx_Cevap1.Name = "txtBx_Cevap1";
             this.txtBx_Cevap1.Size = new System.Drawing.Size(125, 32);
             this.txtBx_Cevap1.TabIndex = 1;
-            this.txtBx_Cevap1.Text = "a";
             // 
             // txtBx_Cevap2
             // 
@@ -67,7 +66,6 @@
             this.txtBx_Cevap2.Name = "txtBx_Cevap2";
             this.txtBx_Cevap2.Size = new System.Drawing.Size(125, 32);
             this.txtBx_Cevap2.TabIndex = 2;
-            this.txtBx_Cevap2.Text = "a";
             // 
             // txtBx_Cevap3
             // 
@@ -79,7 +77,6 @@
             this.txtBx_Cevap3.Name = "txtBx_Cevap3";
             this.txtBx_Cevap3.Size = new System.Drawing.Size(125, 32);
             this.txtBx_Cevap3.TabIndex = 3;
-            this.txtBx_Cevap3.Text = "a";
             // 
             // btn_SonrakiSoru
             // 
