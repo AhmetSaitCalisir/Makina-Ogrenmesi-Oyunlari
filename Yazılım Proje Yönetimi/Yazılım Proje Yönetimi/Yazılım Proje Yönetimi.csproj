@@ -49,6 +49,7 @@
     <Compile Include="Class_AlianLanguage.cs" />
     <Compile Include="Class_CarCup.cs" />
     <Compile Include="Class_Chameleon.cs" />
+    <Compile Include="Class_FindIt.cs" />
     <Compile Include="Class_Phishing_Soru.cs" />
     <Compile Include="Class_Phishing_Sorular.cs" />
     <Compile Include="Class_Sorting_Soru.cs" />
@@ -78,6 +79,12 @@
     </Compile>
     <Compile Include="Form_Chameleon.Designer.cs">
       <DependentUpon>Form_Chameleon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_FindIt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_FindIt.Designer.cs">
+      <DependentUpon>Form_FindIt.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Giris.cs">
       <SubType>Form</SubType>
@@ -109,6 +116,7 @@
     <Compile Include="Form_Tourist.Designer.cs">
       <DependentUpon>Form_Tourist.cs</DependentUpon>
     </Compile>
+    <Compile Include="listeler\Add.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_Alian.resx">
@@ -122,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Chameleon.resx">
       <DependentUpon>Form_Chameleon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_FindIt.resx">
+      <DependentUpon>Form_FindIt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Giris.resx">
       <DependentUpon>Form_Giris.cs</DependentUpon>

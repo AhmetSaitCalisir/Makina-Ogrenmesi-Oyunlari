@@ -70,5 +70,12 @@ namespace Yazılım_Proje_Yönetimi
             form_Chameleon.Show();
             this.Hide();
         }
+
+        private void btn_Find_Click(object sender, EventArgs e)
+        {
+            Form_FindIt form_FindIt = new Form_FindIt();
+            form_FindIt.Show();
+            this.Hide();
+        }
     }
 }
