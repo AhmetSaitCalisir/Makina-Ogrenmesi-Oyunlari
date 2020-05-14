@@ -128,6 +128,7 @@
             this.btn_Make.TabIndex = 5;
             this.btn_Make.Text = "Make Me Happy";
             this.btn_Make.UseVisualStyleBackColor = false;
+            this.btn_Make.Click += new System.EventHandler(this.btn_Make_Click);
             // 
             // btn_Phishing
             // 

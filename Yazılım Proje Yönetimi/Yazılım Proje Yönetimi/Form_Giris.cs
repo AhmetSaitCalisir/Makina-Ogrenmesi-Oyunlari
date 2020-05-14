@@ -77,5 +77,12 @@ namespace Yazılım_Proje_Yönetimi
             form_FindIt.Show();
             this.Hide();
         }
+
+        private void btn_Make_Click(object sender, EventArgs e)
+        {
+            Form_MakeMeHappy form_MakeMeHappy = new Form_MakeMeHappy();
+            form_MakeMeHappy.Show();
+            this.Hide();
+        }
     }
 }
