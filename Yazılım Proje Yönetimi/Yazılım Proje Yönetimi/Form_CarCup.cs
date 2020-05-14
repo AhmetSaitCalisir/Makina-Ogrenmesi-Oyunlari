@@ -76,7 +76,8 @@ namespace Yazılım_Proje_Yönetimi
         {
             if (class_CarCup.Kontrol(btn_House.Tag.ToString()))
             {
-                lbl_NesneAdi.Text = class_CarCup.NesneSor(0);
+
+                MessageBox.Show("Oyun bittiiiiiiii....");
                 btn_House.Visible = false;
             }
             else

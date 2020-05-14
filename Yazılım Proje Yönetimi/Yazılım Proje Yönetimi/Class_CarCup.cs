@@ -25,6 +25,7 @@ namespace Yazılım_Proje_Yönetimi
 
         public string NesneSor(int index)
         {
+           
             return SorulacakNesneler[index];
         }
 
