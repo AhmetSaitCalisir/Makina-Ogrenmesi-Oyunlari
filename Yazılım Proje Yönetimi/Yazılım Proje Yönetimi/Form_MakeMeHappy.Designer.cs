@@ -37,6 +37,7 @@
             // 
             // cmbBx_Söz
             // 
+            this.cmbBx_Söz.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(255)))), ((int)(((byte)(223)))));
             this.cmbBx_Söz.FormattingEnabled = true;
             this.cmbBx_Söz.Location = new System.Drawing.Point(197, 320);
             this.cmbBx_Söz.Name = "cmbBx_Söz";
@@ -54,17 +55,20 @@
             // 
             // btn_Cikis
             // 
+            this.btn_Cikis.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(110)))), ((int)(((byte)(255)))), ((int)(((byte)(223)))));
+            this.btn_Cikis.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(84)))), ((int)(((byte)(124)))));
             this.btn_Cikis.Location = new System.Drawing.Point(486, -1);
             this.btn_Cikis.Name = "btn_Cikis";
             this.btn_Cikis.Size = new System.Drawing.Size(75, 31);
             this.btn_Cikis.TabIndex = 2;
             this.btn_Cikis.Text = "Çıkış";
-            this.btn_Cikis.UseVisualStyleBackColor = true;
+            this.btn_Cikis.UseVisualStyleBackColor = false;
             this.btn_Cikis.Click += new System.EventHandler(this.btn_Cikis_Click);
             // 
             // lbl_Secilen
             // 
             this.lbl_Secilen.AutoSize = true;
+            this.lbl_Secilen.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(192)))), ((int)(((byte)(235)))));
             this.lbl_Secilen.Location = new System.Drawing.Point(249, 401);
             this.lbl_Secilen.Name = "lbl_Secilen";
             this.lbl_Secilen.Size = new System.Drawing.Size(38, 17);
@@ -75,6 +79,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(84)))), ((int)(((byte)(124)))));
             this.ClientSize = new System.Drawing.Size(559, 498);
             this.Controls.Add(this.lbl_Secilen);
             this.Controls.Add(this.btn_Cikis);
