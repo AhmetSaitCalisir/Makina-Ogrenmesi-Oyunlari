@@ -25,5 +25,7 @@ namespace Yazılım_Proje_Yönetimi
             Cevap4[0] = Sly;
             Cevap4[1] = "Slytherin";
         }
+
+        
     }
 }

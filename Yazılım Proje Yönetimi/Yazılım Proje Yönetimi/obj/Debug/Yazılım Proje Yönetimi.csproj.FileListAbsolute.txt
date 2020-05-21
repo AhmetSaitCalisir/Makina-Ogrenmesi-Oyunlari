@@ -33,3 +33,8 @@ D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Chameleon.resources
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_FindIt.resources
 D:\Makina-Ogrenmesi-Oyunlari\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_MakeMeHappy.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Alian2.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_CarCup.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Chameleon.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_FindIt.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_MakeMeHappy.resources

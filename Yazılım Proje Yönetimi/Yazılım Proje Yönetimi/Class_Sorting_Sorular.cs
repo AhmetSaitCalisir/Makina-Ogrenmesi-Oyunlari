@@ -9,6 +9,7 @@ namespace Yazılım_Proje_Yönetimi
     class Class_Sorting_Sorular
     {
         private List<Class_Sorting_Soru> Sorular = new List<Class_Sorting_Soru>();
+        private List<String> Cevaplar = new List<string>();
         public Class_Sorting_Sorular()
         {
             Sorular.Add(new Class_Sorting_Soru(
@@ -80,6 +81,16 @@ namespace Yazılım_Proje_Yönetimi
             }
             return Doncecek;
         }
+        public void Cevapla(string Cevap)
+        {
+            Cevaplar.Add(Cevap);
+        }
 
+        public string Bitir(string Isim)
+        {
+            Random random = new Random();
+            int Secim = random.Next(Cevaplar.Count);
+            return "Bravo "+Isim+" sen tam bir "+Cevaplar[Secim]+"'sin";
+        }
     }
 }

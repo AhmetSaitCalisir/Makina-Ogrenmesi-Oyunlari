@@ -34,7 +34,6 @@ namespace Yazılım_Proje_Yönetimi
             if(gelen== SorulacakNesneler[0])
             {
                 SorulacakNesneler.RemoveAt(0);
-                s
                 return true;
             }
             else
