@@ -50,6 +50,8 @@
     <Compile Include="Class_CarCup.cs" />
     <Compile Include="Class_Chameleon.cs" />
     <Compile Include="Class_FindIt.cs" />
+    <Compile Include="Class_KiwiResimCevap.cs" />
+    <Compile Include="Class_KiwiResimler.cs" />
     <Compile Include="Class_MakeMeHappy.cs" />
     <Compile Include="Class_Phishing_Soru.cs" />
     <Compile Include="Class_Phishing_Sorular.cs" />
@@ -92,6 +94,12 @@
     </Compile>
     <Compile Include="Form_Giris.Designer.cs">
       <DependentUpon>Form_Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Kiwi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Kiwi.Designer.cs">
+      <DependentUpon>Form_Kiwi.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_MakeMeHappy.cs">
       <SubType>Form</SubType>
@@ -143,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Giris.resx">
       <DependentUpon>Form_Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Kiwi.resx">
+      <DependentUpon>Form_Kiwi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_MakeMeHappy.resx">
       <DependentUpon>Form_MakeMeHappy.cs</DependentUpon>

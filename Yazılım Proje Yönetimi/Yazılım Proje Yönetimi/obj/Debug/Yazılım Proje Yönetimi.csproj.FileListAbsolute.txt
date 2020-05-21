@@ -38,3 +38,4 @@ D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Y
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Chameleon.resources
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_FindIt.resources
 D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_MakeMeHappy.resources
+D:\Yazılım\Visual Studio\Makina-Ogrenmesi-Oyunlar-\Yazılım Proje Yönetimi\Yazılım Proje Yönetimi\obj\Debug\Yazılım_Proje_Yönetimi.Form_Kiwi.resources

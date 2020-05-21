@@ -84,5 +84,12 @@ namespace Yazılım_Proje_Yönetimi
             form_MakeMeHappy.Show();
             this.Hide();
         }
+
+        private void btn_Kiwi_Click(object sender, EventArgs e)
+        {
+            Form_Kiwi form_Kiwi = new Form_Kiwi();
+            form_Kiwi.Show();
+            this.Hide();
+        }
     }
 }
