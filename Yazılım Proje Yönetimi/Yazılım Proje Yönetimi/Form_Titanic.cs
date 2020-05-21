@@ -91,5 +91,10 @@ namespace Yazılım_Proje_Yönetimi
                 textBox_Yas.Text = "";
             }
         }
+
+        private void Form_Titanic_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

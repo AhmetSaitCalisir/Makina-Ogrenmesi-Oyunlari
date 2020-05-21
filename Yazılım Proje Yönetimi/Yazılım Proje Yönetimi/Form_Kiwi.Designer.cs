@@ -40,14 +40,16 @@
             // 
             // button_Panda
             // 
+            this.button_Panda.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Panda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Panda.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Panda.Location = new System.Drawing.Point(15, 312);
             this.button_Panda.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Panda.Name = "button_Panda";
             this.button_Panda.Size = new System.Drawing.Size(119, 42);
             this.button_Panda.TabIndex = 0;
             this.button_Panda.Text = "Panda";
-            this.button_Panda.UseVisualStyleBackColor = true;
+            this.button_Panda.UseVisualStyleBackColor = false;
             this.button_Panda.Click += new System.EventHandler(this.button_Panda_Click);
             // 
             // pictureBox_Resim
@@ -62,70 +64,80 @@
             // 
             // button_Fil
             // 
+            this.button_Fil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Fil.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Fil.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Fil.Location = new System.Drawing.Point(147, 312);
             this.button_Fil.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Fil.Name = "button_Fil";
             this.button_Fil.Size = new System.Drawing.Size(119, 42);
             this.button_Fil.TabIndex = 2;
             this.button_Fil.Text = "Fil";
-            this.button_Fil.UseVisualStyleBackColor = true;
+            this.button_Fil.UseVisualStyleBackColor = false;
             this.button_Fil.Click += new System.EventHandler(this.button_Fil_Click);
             // 
             // button_Kirpi
             // 
+            this.button_Kirpi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Kirpi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Kirpi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Kirpi.Location = new System.Drawing.Point(280, 312);
             this.button_Kirpi.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Kirpi.Name = "button_Kirpi";
             this.button_Kirpi.Size = new System.Drawing.Size(119, 42);
             this.button_Kirpi.TabIndex = 3;
             this.button_Kirpi.Text = "Kirpi";
-            this.button_Kirpi.UseVisualStyleBackColor = true;
+            this.button_Kirpi.UseVisualStyleBackColor = false;
             this.button_Kirpi.Click += new System.EventHandler(this.button_Kirpi_Click);
             // 
             // button_Kuzu
             // 
+            this.button_Kuzu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Kuzu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Kuzu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Kuzu.Location = new System.Drawing.Point(15, 366);
             this.button_Kuzu.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Kuzu.Name = "button_Kuzu";
             this.button_Kuzu.Size = new System.Drawing.Size(184, 42);
             this.button_Kuzu.TabIndex = 4;
             this.button_Kuzu.Text = "Kuzu";
-            this.button_Kuzu.UseVisualStyleBackColor = true;
+            this.button_Kuzu.UseVisualStyleBackColor = false;
             this.button_Kuzu.Click += new System.EventHandler(this.button_Kuzu_Click);
             // 
             // button_Papagan
             // 
+            this.button_Papagan.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Papagan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Papagan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Papagan.Location = new System.Drawing.Point(215, 366);
             this.button_Papagan.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Papagan.Name = "button_Papagan";
             this.button_Papagan.Size = new System.Drawing.Size(184, 42);
             this.button_Papagan.TabIndex = 5;
             this.button_Papagan.Text = "Papağan";
-            this.button_Papagan.UseVisualStyleBackColor = true;
+            this.button_Papagan.UseVisualStyleBackColor = false;
             this.button_Papagan.Click += new System.EventHandler(this.button_Papagan_Click);
             // 
             // button_Cikis
             // 
+            this.button_Cikis.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(162)))), ((int)(((byte)(186)))));
             this.button_Cikis.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Cikis.Font = new System.Drawing.Font("MS Reference Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button_Cikis.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(240)))), ((int)(((byte)(251)))));
             this.button_Cikis.Location = new System.Drawing.Point(362, -1);
             this.button_Cikis.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.button_Cikis.Name = "button_Cikis";
             this.button_Cikis.Size = new System.Drawing.Size(54, 33);
             this.button_Cikis.TabIndex = 6;
             this.button_Cikis.Text = "Çıkış";
-            this.button_Cikis.UseVisualStyleBackColor = true;
+            this.button_Cikis.UseVisualStyleBackColor = false;
             this.button_Cikis.Click += new System.EventHandler(this.button_Cikis_Click);
             // 
             // Form_Kiwi
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(214)))), ((int)(((byte)(144)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(87)))), ((int)(((byte)(110)))));
             this.ClientSize = new System.Drawing.Size(414, 434);
             this.Controls.Add(this.button_Cikis);
             this.Controls.Add(this.button_Papagan);

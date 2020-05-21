@@ -60,7 +60,7 @@ namespace Yazılım_Proje_Yönetimi
             else
             {
                 MessageBox.Show("CEVABINIZ HATALI");
-                MessageBox.Show(Form_Alian.Class_AlianLanguage.CevapDon(txtBx_SorulanKelime.Text));
+                //MessageBox.Show(Form_Alian.Class_AlianLanguage.CevapDon(txtBx_SorulanKelime.Text));
                 
             }
 
